@@ -5,3 +5,4 @@ Update helper notes — 2025-08-27 15:14:59
 Fix typo in documentation — 2025-09-11 19:47:59
 Add comment for clarity — 2025-09-24 22:17:38
 Fix typo in documentation — 2025-09-24 22:18:41
+Chore: tidy up script — 2025-10-01 19:54:07
